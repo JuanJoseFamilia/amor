@@ -59,16 +59,23 @@ let soundBarsLottie = bodymovin.loadAnimation({
 
 
 let trackList = [
+   
     {
         name: "Only",
         artist: "Lee Hi",
         path: "./music/only.mp3",
     },
     {
+        name:"Die Wiht A Smile",
+        artist:"Lady Gaga,Bruno Mars",
+        path:"./music/die.mp3"
+    },
+    {
         name: "Day & Night",
         artist: "Jung Seung Hwan",
         path: "./music/day and night.mp3",
     },
+    
     {
         name: "Love of my Life",
         artist: "Reyne",
